@@ -1,2 +1,0 @@
-google-cloud-container==2.56.1
-pytest==8.3.5
